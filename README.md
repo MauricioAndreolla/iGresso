@@ -21,9 +21,12 @@ Esse projeto foi feito com as seguinte tecnologias:
 
 # 🏃 Como iniciar o projeto?
 
-0. Possuir o PostGress instalado na estação e configurado na porta 5432
+0. Configurar o PostGres
 
-1. Abrir terminal do vscode
+- Possuir o PostGress instalado na estação e configurado na porta 5432
+- Senão possuir em seu computador link de instalação https://www.postgresql.org/download/
+  
+2. Abrir terminal do vscode
 
 - npm install   
 
